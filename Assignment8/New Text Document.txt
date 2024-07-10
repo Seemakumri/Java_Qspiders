@@ -1,0 +1,24 @@
+class Activity2{
+	public static void main(String [] args){
+//1.
+	int a=0, b=1, c=2, d=3, e=4, f=5, g=6, h=7, i=8, j=9;
+	System.out.println(a);
+	System.out.println(b);
+	System.out.println(c);
+	System.out.println(d);
+	System.out.println(e);
+	System.out.println(f);
+	System.out.println(g);
+	System.out.println(h);
+	System.out.println(i);
+	System.out.println(j);
+
+//2.
+	int sum = a+b+c+d+e+f+g+h+i+j;
+	System.out.println(a);
+	
+
+
+
+}
+}
