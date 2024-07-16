@@ -9,17 +9,16 @@ class Assign8{
 	System.out.println(++a + ++a);
 	System.out.println(--a + --b + a++ + b++ + "java");
 
+
 	//2. 
 	int n1 = 10;
-	int n2 = 11;
-	boolean n = (n1 == even) && (n2 == odd);
-	System.out.println(n);
+	System.out.println((n1%2==0) ? "even" : "odd");
 	
 	
 	//3.
 	int num1 = 5, num2 = 8;
-	boolean res = num1<num2;
-	System.out.println(res);
+	System.out.println((num1>num2) ? "num1 is larger"  : "num2 is larger");
+	
  
 
 	

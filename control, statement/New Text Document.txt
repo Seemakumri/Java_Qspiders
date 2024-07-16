@@ -1,0 +1,39 @@
+class Week{
+	public static void main(String [] args){
+	int a = 1;
+	switch (a){
+	case a: (1){
+	System.out.println("Sunday");
+	break;
+}
+	case a: (2){
+	System.out.println("Monday");
+	break;
+}
+	case a: (3){
+	System.out.println("Tuesday");
+	break;
+	
+}	
+	case a: (4){
+	System.out.println("Wednsday");
+	break;
+}
+	case a: (5){
+	System.out.println("Thursday");
+	break;
+}
+	case a: (6){
+	System.out.println("Friday");
+	break;
+}
+	case a: (7){
+	System.out.println("Saturday");
+	break;
+}
+	default: (){
+	System.out.println("invalid");
+}
+
+}
+}
